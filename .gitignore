@@ -1,0 +1,11 @@
+node_modules/
+.env
+.encryptedKey.json
+coverage
+coverage.json
+typechain
+cache
+artifacts
+gas-report.txt
+notes.txt
+phrase.txt
